@@ -28,7 +28,7 @@ Week 5: [Reflect On Formative Feedback ](https://medium.com/@c.lovekin/reflectio
 
 Week 6: [Desiging My Landing Page](https://medium.com/@c.lovekin/designing-my-landing-page-e228df3a0e64) 
 
-Week 7: []() 
+Week 7: [What Did I Learn](https://medium.com/@c.lovekin/what-did-i-learn-dd83702abc39) 
 
 
 ![Idea](https://github.com/CallumLovekin28/UX-Design/blob/master/Images/Concept.png)
