@@ -42,7 +42,7 @@ I wanted to aim it towards people who use social media as there primary news sou
 - [Personal filter bubbles](https://drive.google.com/file/d/1yluWFbo2SAWOEyZpURGDOvK1IP9MesTS/view?usp=sharing)
 - [10 ideas for your digital object](https://drive.google.com/file/d/11AQjNPXlaSmvJYXDGiBiR02WB73n_Wu3/view?usp=sharing)
 - [Concept one-pager of your chosen idea](https://drive.google.com/file/d/12WPc0fAjHVEJl0GyTDNQSfdUjDFlKUVC/view?usp=sharing)
-- [Interviews]()
+- [Interviews](https://docs.google.com/document/d/1XLYY9ZbrvC_Qadv9Ey_GnJQ2zR-IHlOmGTGFiyhuDa8/edit?usp=sharing)
 - [Audience & Research](https://docs.google.com/document/d/1dmT2uNLMtAGtUNru3bOwxSew4j8boT3ln6wMFTL0qpE/edit?usp=sharing)
 - [Paper prototypes](https://drive.google.com/drive/folders/1joshTIBZUs0a6ZEFeNI8prpNKtsBqNq9?usp=sharing)
 - [Interactive prototypes of your digital object](https://drive.google.com/drive/folders/1A6iNLQpxhX_JPcCBtZAjKCbuIbwnlcoT?usp=sharing)
