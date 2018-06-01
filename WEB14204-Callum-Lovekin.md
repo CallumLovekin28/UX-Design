@@ -49,4 +49,4 @@ I wanted to aim it towards people who use social media as there primary news sou
 - [User-testing report](https://docs.google.com/document/d/1JXraeJmpWTJdMm4y4AXC0El3vcdOD5sVnah-tfFv2Ak/edit?usp=sharing)
 - [Concept video](https://drive.google.com/file/d/1cNoTuhmiBm8ONoFGuXXMxOBQGBq2axX7/view?usp=sharing)
 - [Landing page](https://drive.google.com/file/d/1bmHzgxyzhkCeUUOcGEC-MYcnbvQHqbSD/view?usp=sharing)
-- [Summative pitch]()
+- [Summative pitch](https://drive.google.com/drive/folders/1ZZsGXkBV9Jx4t3PunnMsi39MCL5XGZHf?usp=sharing)
